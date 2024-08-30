@@ -1,0 +1,9 @@
+Models/AREDS2 filter=lfs diff=lfs merge=lfs -text
+Models/DAAMD filter=lfs diff=lfs merge=lfs -text
+Models/DAAMD/Deep-RPD-Net+.zip filter=lfs diff=lfs merge=lfs -text
+Models/DAAMD/Deep-RPD-Net-tuned.zip filter=lfs diff=lfs merge=lfs -text
+Models/DAAMD/Deep-RPD-Net.zip filter=lfs diff=lfs merge=lfs -text
+Models/AREDS2/Deep-RPD-Net+.zip filter=lfs diff=lfs merge=lfs -text
+Models/AREDS2/Deep-RPD-Net.zip filter=lfs diff=lfs merge=lfs -text
+Models/AREDS2/base2d.zip filter=lfs diff=lfs merge=lfs -text
+Models/AREDS2/base3d.zip filter=lfs diff=lfs merge=lfs -text
